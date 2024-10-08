@@ -1,0 +1,96 @@
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson8\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson9-Edentites\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson10-EdentitesB\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11=EdentitesC\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson11-EdentitesC\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson12-EntitiesD\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\bin\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\bin\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\Project.Core.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson13-Async\Project\project.Core\obj\Debug\net6.0\ref\Project.Core.dll
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\bin\Debug\net6.0\Project.Core.deps.json
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\bin\Debug\net6.0\Project.Core.dll
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.dll
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\refint\Project.Core.dll
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\Project.Core.pdb
+C:\Users\user1\Downloads\netCoreProject-main\.netCoreProject-main\project.Core\obj\Debug\net6.0\ref\Project.Core.dll

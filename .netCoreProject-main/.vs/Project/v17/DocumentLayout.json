@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.data\\productreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\productreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|solutionrelative:project.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A18ABE-ECAE-49AF-9F31-029CC5D36D7D}|project.service\\Project.Service.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A18ABE-ECAE-49AF-9F31-029CC5D36D7D}|project.service\\Project.Service.csproj|solutionrelative:project.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|solutionrelative:project.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|solutionrelative:project.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7754162A-47B7-4F76-B638-90927B88DB13}|project.Core\\Project.Core.csproj|solutionrelative:project.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project.data\\categoryreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C5AB2B-7E36-419D-92E5-1F3352D14A57}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\categoryreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\models\\orderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\models\\orderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\models\\productpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\models\\productpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\source\\repos\\ShoppingList.API\\ShoppingList.Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|c:\\users\\user1\\downloads\\netcoreproject-main\\.netcoreproject-main\\project-api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1DA06D-1722-4522-8E8F-3D0010638295}|Project-api\\Project.API.csproj|solutionrelative:project-api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613181718_createDB123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20240613181718_createDB123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613175713_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20240613175713_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\Group_3\\\u05E0\u05D9\u05D6\u05E8\u05D9  \u05EA\u05D0\u05D9\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\ServerProject\\ServerProject.Core\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240527150611_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20240527150611_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\CustomerReposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\CustomerReposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project-api\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.Core\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.Core\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\CustomerPostModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project-api\\Models\\CustomerPostModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.service\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.service\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Services\\ICustomerServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.Core\\Services\\ICustomerServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\ProdactToOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.Core\\Models\\ProdactToOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Repositories\\ICustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.Core\\Repositories\\ICustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project-api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project-api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "project.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Product.cs",
+              "RelativeToolTip": "project.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:09:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Project.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\DataContext.cs",
+              "RelativeToolTip": "Project.Data\\DataContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:32:17.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\ProductReposetory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\ProductReposetory.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\ProductReposetory.cs",
+              "RelativeToolTip": "Project.Data\\ProductReposetory.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:29:53.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.service\\ProductService.cs",
+              "RelativeDocumentMoniker": "project.service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.service\\ProductService.cs",
+              "RelativeToolTip": "project.service\\ProductService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:31:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "project.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "project.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:30:22.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Program.cs",
+              "RelativeDocumentMoniker": "Project-api\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Program.cs",
+              "RelativeToolTip": "Project-api\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "project.Core\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "project.Core\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:09:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "project.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Category.cs",
+              "RelativeToolTip": "project.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:10:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\appsettings.json",
+              "RelativeDocumentMoniker": "Project-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\appsettings.json",
+              "RelativeToolTip": "Project-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T17:55:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Project-api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Project-api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T17:56:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Project.API.csproj",
+              "RelativeDocumentMoniker": "Project-api\\Project.API.csproj",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Project.API.csproj",
+              "RelativeToolTip": "Project-api\\Project.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T15:43:12.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\CategoryReposetory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\CategoryReposetory.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\CategoryReposetory.cs",
+              "RelativeToolTip": "Project.Data\\CategoryReposetory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:28:45.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Project-api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Project-api\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwCwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\CustomerReposetory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\CustomerReposetory.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\CustomerReposetory.cs",
+              "RelativeToolTip": "Project.Data\\CustomerReposetory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\OrderPostModel.cs",
+              "RelativeDocumentMoniker": "Project-api\\Models\\OrderPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\OrderPostModel.cs",
+              "RelativeToolTip": "Project-api\\Models\\OrderPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:34:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Project-api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Project-api\\Controllers\\CustomerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:24:11.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Project-api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Project-api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "project.Core\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Customer.cs",
+              "RelativeToolTip": "project.Core\\Models\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "project.Core\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\Order.cs",
+              "RelativeToolTip": "project.Core\\Models\\Order.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:25:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\libman.json",
+              "RelativeDocumentMoniker": "Project-api\\libman.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\libman.json",
+              "RelativeToolTip": "Project-api\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T17:55:57.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\ProductPostModel.cs",
+              "RelativeDocumentMoniker": "Project-api\\Models\\ProductPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\ProductPostModel.cs",
+              "RelativeToolTip": "Project-api\\Models\\ProductPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:34:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingList.API\\ShoppingList.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\ShoppingList.API\\ShoppingList.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingList.API\\ShoppingList.Data\\DataContext.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ShoppingList.API\\ShoppingList.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:31:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\CustomerPostModel.cs",
+              "RelativeDocumentMoniker": "Project-api\\Models\\CustomerPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\CustomerPostModel.cs",
+              "RelativeToolTip": "Project-api\\Models\\CustomerPostModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Project-api\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project-api\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Project-api\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "project.service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.service\\CustomerService.cs",
+              "RelativeToolTip": "project.service\\CustomerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Services\\ICustomerServices.cs",
+              "RelativeDocumentMoniker": "project.Core\\Services\\ICustomerServices.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Services\\ICustomerServices.cs",
+              "RelativeToolTip": "project.Core\\Services\\ICustomerServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240613181718_createDB123.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613181718_createDB123.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240613181718_createDB123.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613181718_createDB123.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240613181718_createDB123.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:18.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProdactToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\ProdactToOrder.cs",
+              "RelativeDocumentMoniker": "project.Core\\Models\\ProdactToOrder.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Models\\ProdactToOrder.cs",
+              "RelativeToolTip": "project.Core\\Models\\ProdactToOrder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:04:33.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240613175713_createDB.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613175713_createDB.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240613175713_createDB.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240613175713_createDB.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240613175713_createDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:57:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "project.Core\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\project.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "project.Core\\Repositories\\ICustomerRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240527150611_try.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240527150611_try.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240527150611_try.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\netCoreProject-main\\.netCoreProject-main\\Project.Data\\Migrations\\20240527150611_try.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240527150611_try.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:12.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Role.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05E0\u05D9\u05D6\u05E8\u05D9  \u05EA\u05D0\u05D9\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\ServerProject\\ServerProject.Core\\Models\\Role.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05E0\u05D9\u05D6\u05E8\u05D9  \u05EA\u05D0\u05D9\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\ServerProject\\ServerProject.Core\\Models\\Role.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:24:56.55Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 6,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
